@@ -1,4 +1,3 @@
 Faculdade Uniesp
-Curso: Ciências da Computação/Sistema para Internet
-Raphael Kayama
-Disciplina
+Curso: Ciências da Computação
+Respondendo a lista de exercício do GitHub
